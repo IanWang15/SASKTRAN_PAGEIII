@@ -1,5 +1,5 @@
 # SASKTRAN_PAGEIII
-PAGEIII project by SASKTRAN simulation
+SAGEIII project by SASKTRAN simulation
 
 # Installation
 
