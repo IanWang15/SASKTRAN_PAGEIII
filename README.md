@@ -3,7 +3,7 @@ PAGEIII project by SASKTRAN simulation
 
 # Installation
 
-# Build a python virtual environment on AWS
+## Build a python virtual environment on AWS
 
 $conda create -n py36rtm python=3.6
 
@@ -17,7 +17,7 @@ $conda create -n py36rtm python=3.6
 
 (py36rtm) $ pip install sasktran -f https://arg.usask.ca/wheels/![image](https://user-images.githubusercontent.com/52504365/114101263-167b7d80-988b-11eb-83e2-23e7949413b7.png)
 
-# update SASKTRAN to the develop branch:
+## update SASKTRAN to the develop branch:
 
 $pip uninstall sasktran
 
